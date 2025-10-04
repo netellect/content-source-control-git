@@ -1,3 +1,4 @@
+This is training only - please ignore this repo.
 README
 ======
 
